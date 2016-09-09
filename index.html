@@ -1,1 +1,57 @@
-Hello World
+<!DOCTYPE html> <html lang="en"> <head> <meta charset="UTF-8"> <base target="_blank"> <title>Chen Cong</title> <link href="https://fonts.googleapis.com/css?family=Roboto+Mono:400,700" rel="stylesheet"> <link href="http://fonts.googleapis.com/css?family=Anonymous+Pro&subset=latin,latin-ext" rel="stylesheet" type="text/css"> <link href="./assets/homebrew.css" rel="stylesheet" type="text/css"> <script src="./assets/marked.js"></script> <script src="./assets/multiline.js"></script> </head> <body> <table id="header" class="full-width no-border"> <tr> <td align="left">CCONG(4)</td> <td align="center" id="title"></td> <td align="right">CCONG(4)</td> </tr> </table> <div id="content"></div> <table id="footer" class="full-width no-border"> <tr> <td align="left">CCONG(4)</td> <td align="center"><span id="date"></span></td> <td align="right">CCONG(4)</td> </tr> </table> <script> document.getElementById("date").innerHTML = new Date().toISOString().slice(0, 10); </script> </body> <script> document.getElementById('content').innerHTML=marked(multiline(function(){/*
+
+# Chen Cong (叢晨)
+
+## SYNOPSIS
+
+- mailto: chen[AT]cong.io
+- office: CoRE-344
+
+
+## DESCRIPTION
+
+A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code.
+
+Doing research in [LGI Lab](http://www.cs.rutgers.edu/lgi/) adviced by [Prof. Naftaly Minsky](http://www.cs.rutgers.edu/~minsky/).<br />
+Focusing on the coordination and control of heterogeneous distributed systems.
+
+## RESEARCH
+
+### Current
+- The trust and control of orchestration and choreography in SOA systems.
+- Maintaining [Moses middleware](http://www.moses.rutgers.edu).
+
+### Done
+- [A new DSL](./dropbox/manual.pdf) for writing [LGI](http://www.moses.rutgers.edu/documentation/manual.pdf) laws.
+- Improving [Moses](http://www.moses.rutgers.edu)'s support of hierarchical laws and inter-community interactions.
+
+
+## TEACHING
+
+### TA'ing
+- 01:198:515 Programming Languages and Compilers (Spring 2016)
+- 01:198:546 Computer Systems Security (Spring 2016)
+
+### TA'ed
+- 01:198:112 Data Structures (Fall 2014)
+- 01:198:205 Introduction to Discrete Structures I (Fall 2013, Summer 2014)
+- 01:198:344 Design and Analysis of Computer Algorithms (Spring 2014)
+- 01:198:352 Internet Technology (Summer 2015)
+- 01:198:419 Computer Security (Spring 2015)
+- 01:198:518 Operating Systems Design (Spring 2016)
+- 01:198:546 Computer Systems Security (Fall 2015)
+- 01:198:547 The Security and Dependability of Distributed Systems (Spring 2016)
+
+
+## INDUSTRY
+
+### Internships
+- [Google](https://www.google.com) (Mountain View, CA: Summer 2016)
+- [Rutgers OIT](https://oit.rutgers.edu/) (Piscataway, NJ: Summer 2014, Summer 2015)
+
+
+## SEE ALSO
+- [LinkedIn](https://www.linkedin.com/in/ccong)
+- [Github](https://github.com/ericcong)
+
+*/})); document.getElementById('title').innerHTML=document.getElementsByTagName("h1")[0].innerHTML; document.title=document.getElementsByTagName("h1")[0].innerHTML</script> <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-67040327-1', 'auto'); ga('send', 'pageview'); </script> </html>
