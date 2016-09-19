@@ -1,9 +1,0 @@
-# Archlinux Installation Notes
-
-## Wifi
-For Macbook 8,1 or other Broadcom 4311 computers, we need to do the following:
-
-1. Install `b43-firmware' from Pacman
-2. Install `broadcom-wl-dkms` from AUR 
-3. `rmmod b43`, `rmmod ssb`
-4. Put `b43`, `ssh` to blacklist
