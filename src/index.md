@@ -9,14 +9,16 @@
 
 A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code.
 
-Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/).
-My research is focused on the dependability of open distributed systems.
+Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/), focusing on the dependability of open distributed systems.
 
 ## RESEARCH
 
-My current research project is on establishing global or semi-global structures, choreography enforcement, and behavioral trust in SOA systems.
+### Current
 
-My past research projects include:
+- On establishing global or semi-global structures, choreography enforcement, and behavioral trust in SOA systems.
+
+### Past
+
 - Implemented the Socket interface for [Moses middleware](http://www.moses.rutgers.edu).
 - Designed and implemented [A new DSL](http://www.moses.rutgers.edu/documentation/LawScript_coffee.pdf) for writing [LGI](http://www.moses.rutgers.edu/documentation/manual.pdf) laws.
 - Improved [Moses](http://www.moses.rutgers.edu)'s support of hierarchical laws and inter-community interactions.
