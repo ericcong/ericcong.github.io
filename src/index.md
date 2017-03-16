@@ -15,39 +15,39 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 
 ### Current
 
-- On establishing global or semi-global structures, choreography enforcement, and behavioral trust in SOA systems.
+- On establishing global/semi-global structures, choreography enforcement, and behavioral trust in SOA systems.
 
 ### Past
 
 - Implemented the Socket interface for [Moses middleware](http://www.moses.rutgers.edu).
 - Designed and implemented [A new DSL](http://www.moses.rutgers.edu/documentation/LawScript_coffee.pdf) for writing [LGI](http://www.moses.rutgers.edu/documentation/manual.pdf) laws.
-- Improved [Moses](http://www.moses.rutgers.edu)'s support of hierarchical laws and inter-community interactions.
+- Improved Moses's support of hierarchical laws and inter-community interactions.
 
 ## INDUSTRY
 
 ### Internships
 
-- [Google](https://www.google.com) (Mountain View, CA: Summer 2016)
-- [Rutgers OIT](https://oit.rutgers.edu/) (Piscataway, NJ: Summer 2014, Summer 2015)
+- [Google](https://www.google.com) (SU-2016, SU-2017)
+- [Rutgers OIT](https://oit.rutgers.edu/) (SU-2014, SU-2015)
 
 ## TEACHING
 
-### Current
+### TA'ing
 
-- 01:198:518 Operating Systems Design (Spring 2017)
-- 01:198:547 The Security and Dependability of Distributed Systems (Spring 2017)
+- CS-518 Operating Systems Design (SP-2017)
+- CS-547 The Security and Dependability of Distributed Systems (SP-2017)
 
-### Past
+### TA'ed
 
-- 01:198:112 Data Structures (Fall 2014)
-- 01:198:205 Introduction to Discrete Structures I (Fall 2013, Summer 2014)
-- 01:198:344 Design and Analysis of Computer Algorithms (Spring 2014)
-- 01:198:352 Internet Technology (Summer 2015)
-- 01:198:419 Computer Security (Spring 2015)
-- 01:198:515 Programming Languages and Compilers (Spring 2016)
-- 01:198:518 Operating Systems Design (Spring 2016)
-- 01:198:546 Computer Systems Security (Fall 2015, Spring 2016)
-- 01:198:547 The Security and Dependability of Distributed Systems (Spring 2016)
+- CS-112 Data Structures (FA-2014)
+- CS-205 Introduction to Discrete Structures I (FA-2013, SU-2014)
+- CS-344 Design and Analysis of Computer Algorithms (SP-2014)
+- CS-352 Internet Technology (SU-2015)
+- CS-419 Computer Security (SP-2015)
+- CS-515 Programming Languages and Compilers (SP-2016)
+- CS-518 Operating Systems Design (SP-2016)
+- CS-546 Computer Systems Security (FA-2015, SP-2016)
+- CS-547 The Security and Dependability of Distributed Systems (SP-2016)
 
 ## SEE ALSO
 
