@@ -7,7 +7,7 @@
 
 ## DESCRIPTION
 
-A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code.
+A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code and sometimes other stuffs.
 
 Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/), focusing on the dependability of open distributed systems.
 
