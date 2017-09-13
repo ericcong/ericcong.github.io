@@ -7,7 +7,7 @@
 
 ## DESCRIPTION
 
-A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code and sometimes other stuffs.
+A Ph.D. student in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code and stuff.
 
 Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/), focusing on the dependability of open distributed systems.
 
@@ -15,7 +15,7 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 
 ### Current
 
-- On establishing global/semi-global structures, choreography enforcement, and behavioral trust in SOA systems.
+- On establishing global/semi-global structures, choreography enforcement, and behavioral trust in service-oriented systems.
 
 ### Past
 
@@ -34,8 +34,7 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 
 ### TA'ing
 
-- CS-518 Operating Systems Design (SP-2017)
-- CS-547 The Security and Dependability of Distributed Systems (SP-2017)
+- CS-431 Software Engineering (FA-2017)
 
 ### TA'ed
 
@@ -45,9 +44,9 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 - CS-352 Internet Technology (SU-2015)
 - CS-419 Computer Security (SP-2015)
 - CS-515 Programming Languages and Compilers (SP-2016)
-- CS-518 Operating Systems Design (SP-2016)
+- CS-518 Operating Systems Design (SP-2016, SP-2017)
 - CS-546 Computer Systems Security (FA-2015, SP-2016)
-- CS-547 The Security and Dependability of Distributed Systems (SP-2016)
+- CS-547 The Security and Dependability of Distributed Systems (SP-2016, SP-2017)
 
 ## SEE ALSO
 
