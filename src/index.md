@@ -15,10 +15,12 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 
 ### Current
 
-- On establishing global/semi-global structures, choreography enforcement, and behavioral trust in service-oriented systems.
+- Building trustworthy LGI Controller Service.
+- On establishing system invariants in service-oriented systems.
 
 ### Past
 
+- Implemented the Law Tester for [LGI](http://www.moses.rutgers.edu/documentation/manual.pdf).
 - Implemented the Socket interface for [Moses middleware](http://www.moses.rutgers.edu).
 - Designed and implemented [A new DSL](http://www.moses.rutgers.edu/documentation/LawScript_coffee.pdf) for writing [LGI](http://www.moses.rutgers.edu/documentation/manual.pdf) laws.
 - Improved Moses's support of hierarchical laws and inter-community interactions.
@@ -33,8 +35,8 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 ## TEACHING
 
 ### TA'ing
+- CS-415 Compilers (SP-2018)
 
-- CS-431 Software Engineering (FA-2017)
 
 ### TA'ed
 
@@ -43,6 +45,7 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 - CS-344 Design and Analysis of Computer Algorithms (SP-2014)
 - CS-352 Internet Technology (SU-2015)
 - CS-419 Computer Security (SP-2015)
+- CS-431 Software Engineering (FA-2017)
 - CS-515 Programming Languages and Compilers (SP-2016)
 - CS-518 Operating Systems Design (SP-2016, SP-2017)
 - CS-546 Computer Systems Security (FA-2015, SP-2016)
