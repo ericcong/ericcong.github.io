@@ -2,7 +2,7 @@
 
 ## SYNOPSIS
 
-- mailto: chen[AT]cong.io
+- mailto: chen.cong[AT]cs.rutgers.edu
 - office: CoRE-344
 
 ## DESCRIPTION
