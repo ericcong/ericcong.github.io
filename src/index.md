@@ -9,13 +9,14 @@
 
 A Ph.D. Candidate in Computer Science at [Rutgers University](http://www.cs.rutgers.edu/) who turns coffee into code and stuff.
 
-Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/), focusing on the dependability of open distributed systems.
+Doing research in LGI Lab with [Prof. Naftaly H. Minsky](http://www.cs.rutgers.edu/~minsky/), focusing on the dependability of open distributed systems.
 
 ## RESEARCH
 
 ### Current
 
-- Building trustworthy LGI Controller Service.
+- Building trustworthy LGI Controller Provider.
+- Building next-gen LGI middleware.
 - On establishing system invariants in service-oriented systems.
 
 ### Past
@@ -35,8 +36,8 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 ## TEACHING
 
 ### TA'ing
-- CS-415 Compilers (SP-2018)
 
+- CS-205 Introduction to Discrete Structures I (FA-2018)
 
 ### TA'ed
 
@@ -44,6 +45,7 @@ Doing research in LGI Lab adviced by [Prof. Naftaly H. Minsky](http://www.cs.rut
 - CS-205 Introduction to Discrete Structures I (FA-2013, SU-2014)
 - CS-344 Design and Analysis of Computer Algorithms (SP-2014)
 - CS-352 Internet Technology (SU-2015)
+- CS-415 Compilers (SP-2018)
 - CS-419 Computer Security (SP-2015)
 - CS-431 Software Engineering (FA-2017)
 - CS-515 Programming Languages and Compilers (SP-2016)
